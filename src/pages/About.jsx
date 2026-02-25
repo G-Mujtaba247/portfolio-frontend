@@ -99,9 +99,9 @@ const About = () => {
                                 <a href="/contact" className="btn btn-primary">
                                     Hire Me
                                 </a>
-                                <a href="#" className="btn btn-secondary">
+                                <button className="btn btn-secondary">
                                     Download CV
-                                </a>
+                                </button>
                             </div>
                         </div>
                     </div>
